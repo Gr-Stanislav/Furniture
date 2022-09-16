@@ -362,7 +362,7 @@
 
 @media (min-width : 300px) and (max-width: 448px) {
 	.fone_1_img {
-		height: 37vh;
+		height: 30vh;
 	}
 	.section_top_left {
 		width: 262px;
@@ -389,7 +389,7 @@
 	}
 	.item_popap {
 		width: 160px !important;
-		height: 37vh;
+		height: 29vh;
 	}
 	.asoriment ul li:nth-child(4):hover > .item_popap {
 		left: -100%;
