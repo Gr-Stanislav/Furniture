@@ -384,6 +384,22 @@
 		width: 95%;
 		padding-top: 15px;
 	}
+	.asoriment ul {
+		margin-left: -5%;
+	}
+	.item_popap {
+		width: 160px !important;
+		height: 37vh;
+	}
+	.asoriment ul li:nth-child(4):hover > .item_popap {
+		left: -100%;
+	}
+	.asoriment ul li:nth-child(3):hover > .item_popap {
+		left: -22%;
+	}
+	.footer_company {
+		flex-direction: column;
+		align-items: center;
 }
 
 
